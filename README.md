@@ -1,9 +1,9 @@
-# virtual-assistant-python
+# Virtual Assistant - Pooh 🧸
 
-Installation for windows users
+A simple voice-controlled virtual assistant built using Python. Pooh can:
 
-To listen voice/speech : pip install speechRecognition
-To speak out or text to speech : pip install pyttsx3
-For advance control on browser : pip install pywhatkit
-To get jokes : pip install pyjokes
-For google search : pip install google
+- Play music on YouTube
+- Search Google
+- Tell the time or date
+- Crack a joke
+- Chat a bit 🙂
