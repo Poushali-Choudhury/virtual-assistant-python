@@ -7,3 +7,8 @@ A simple voice-controlled virtual assistant built using Python. Pooh can:
 - Tell the time or date
 - Crack a joke
 - Chat a bit 🙂
+
+## Requirements
+
+```bash
+pip install -r requirements.txt
